@@ -19,8 +19,8 @@
 # don't forget to chmod +x
 
 ## time parameters
-working_start=0900
-working_end=2300
+working_start=0000
+working_end=2400
 
 ## bitbar parameters
 # width and characters for the progress bars
